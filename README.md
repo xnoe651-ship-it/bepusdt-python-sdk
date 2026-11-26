@@ -201,7 +201,7 @@ def notify():
         if not store.accept(data):
             return "fail", 400
     except Exception:
-        return "fail", 503
+        return "fail",503
     return "ok", 200
 ```
 
