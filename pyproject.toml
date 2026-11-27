@@ -58,7 +58,7 @@ write_to = "bepusdt/_version.py"
 include = ["bepusdt*"]
 exclude = ["tests*", "examples*"]
 
-[tool.black]
+[tool.black].
 line-length = 120
 target-version = ['py37', 'py38', 'py39', 'py310', 'py311']
 
