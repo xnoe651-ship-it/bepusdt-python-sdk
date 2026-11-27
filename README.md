@@ -244,7 +244,18 @@ data_uri = order.get_qrcode_data_uri()
 - [BEpusdt](https://github.com/v03413/bepusdt) - 优秀的 USDT 支付网关
 - [Epusdt](https://github.com/assimon/epusdt) - BEpusdt 的前身
 
-## 🔗 相关链接
+## 🔗 相关链接💵 支持所有支付方式 💫 快速高效的服务 ⚡️ 支付宝、微信支付二维码、信用卡/借记卡Alipay, QR code WeChat Pay
+
+
+金额低于 1000 元
+
+☄ 接受小额交易（50 元及以上）☄👉 请自行付款。
+
+保证合法安全。加我好友以便长期联系。直接与我交易 🤝🪐
+
+湖北地区的客户，我们可以安排见面交易 🫯
+
+联系方式：@lucrative01
 
 - 🏠 [BEpusdt 官方](https://github.com/v03413/bepusdt)
 - 📦 [PyPI 页面](https://pypi.org/project/bepusdt/)
