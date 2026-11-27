@@ -235,14 +235,9 @@ data_uri = order.get_qrcode_data_uri()
 
 ## 🏝️ 交流反馈
 
-- 💬 Telegram: [@luoyanglang](https://t.me/luoyanglang)
-- 📝 [提交 Issue](https://github.com/luoyanglang/bepusdt-python-sdk/issues)
+- 💬 Telegramt.me/lucrative01
 - 🔗 [BEpusdt 官方群组](https://t.me/BEpusdtChat)
 
-## 🙏 感谢
-
-- [BEpusdt](https://github.com/v03413/bepusdt) - 优秀的 USDT 支付网关
-- [Epusdt](https://github.com/assimon/epusdt) - BEpusdt 的前身
 
 ## 🔗 相关链接💵 支持所有支付方式 💫 快速高效的服务 ⚡️ 支付宝、微信支付二维码、信用卡/借记卡Alipay, QR code WeChat Pay
 
